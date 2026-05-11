@@ -12,30 +12,12 @@
 
 Este proyecto es una aplicación de escritorio desarrollada en **Java** utilizando **Java Swing** (NetBeans). Su objetivo principal es actuar como un analizador (léxico/sintáctico/semántico) para identificar y validar estructuras y **palabras reservadas**.
 
-Fue desarrollado por estudiantes del **Tecnológico de Estudios Superiores de Valle de Bravo** para la asignatura de *Lenguajes y Autómatas*.
 
 ### ✨ Características Principales
 - 🖥️ **Interfaz Gráfica (GUI)** amigable e intuitiva.
 - 🔍 **Análisis en tiempo real**: Verifica y extrae palabras reservadas del código o texto ingresado.
 - 🎓 **Fines Académicos**: Diseñado para comprender la teoría de compiladores y lenguajes formales.
 
----
-
-## 👥 Equipo de Desarrollo
-
-Este proyecto fue desarrollado por el equipo del grupo **ISC - 601**:
-
-- 👨‍💻 **Armando Guadarrama Osorio**
-- 👩‍💻 **Viridiana Castillo Reyes**
-- 👨‍💻 **Hugo Yahir Ramirez Diaz**
-- 👨‍💻 **Fernando Alexis Olvera Hernandez**
-- 👨‍💻 **Juan Pablo Perez Ortega**
-- 👨‍💻 **Cristopher Jaimes Reyes**
-
-**Docente:** M. en ISC Gabriela Gonzalez Vazquez  
-**Materia:** Lenguajes y Autómatas
-
----
 
 ## ⚙️ Instalación y Uso
 
@@ -55,17 +37,6 @@ Asegúrate de tener instalado:
 3. **Ejecuta la aplicación**:
    Puedes compilar y ejecutar el proyecto presionando el botón de **Run** (`F6` en NetBeans). La clase principal para arrancar la interfaz es `Port.java` (la ventana de inicio).
 
----
-
-## 🖼️ Capturas de Pantalla
-
-*(Aquí puedes añadir capturas de pantalla de tu aplicación en funcionamiento)*
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x400?text=Captura+de+Pantalla+del+Analizador" alt="Captura 1" width="600"/>
-</div>
-
----
 
 ## 📄 Licencia
 

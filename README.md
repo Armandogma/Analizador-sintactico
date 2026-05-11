@@ -12,6 +12,7 @@
 
 Este proyecto es una aplicación de escritorio desarrollada en **Java** utilizando **Java Swing** (NetBeans). Su objetivo principal es actuar como un analizador (léxico/sintáctico/semántico) para identificar y validar estructuras y **palabras reservadas**.
 
+Fue desarrollado por estudiantes del **Tecnológico de Estudios Superiores de Valle de Bravo** para la asignatura de *Lenguajes y Autómatas*.
 
 ### ✨ Características Principales
 - 🖥️ **Interfaz Gráfica (GUI)** amigable e intuitiva.
@@ -30,12 +31,13 @@ Asegúrate de tener instalado:
 
 1. **Clona el repositorio** en tu máquina local:
    ```bash
-   git clone https://github.com/TU_USUARIO/analizador-sintactico.git
+   git clone https://github.com/Armandogma/analizador-sintactico.git
    ```
 2. **Abre el proyecto**:
    Si usas NetBeans, ve a `File > Open Project...` y selecciona la carpeta del proyecto (`analizador_sintactico_final`).
 3. **Ejecuta la aplicación**:
    Puedes compilar y ejecutar el proyecto presionando el botón de **Run** (`F6` en NetBeans). La clase principal para arrancar la interfaz es `Port.java` (la ventana de inicio).
+
 
 
 ## 📄 Licencia
